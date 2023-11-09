@@ -1,1 +1,1 @@
-Everything is object
+Python - Almost a circle
