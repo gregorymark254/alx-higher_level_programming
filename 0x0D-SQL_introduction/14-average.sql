@@ -2,4 +2,3 @@
 -- The result column name should be average
 
 SELECT AVG(score) AS Average  FROM second_table;
-
