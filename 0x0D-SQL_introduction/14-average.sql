@@ -2,5 +2,5 @@
 -- The result column name should be average
 -- The database name will be passed as an argument to the mysql command
 
-SELECT AVG(score) AS Average FROM second_table;
+SELECT AVG(score) AS average FROM second_table;
 
